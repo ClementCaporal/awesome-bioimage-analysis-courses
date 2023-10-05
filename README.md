@@ -2,6 +2,12 @@
 Tracking and collecting free courses/tutorial related to bioimage analysis for any student.
 There are so many courses that I'd like to keep track of resources with a license that allow reuse (on different condition please check individually). Please feel free to contribute.
 
+## Already not maintained anymore as this new repo is now out: https://github.com/NFDI4BIOIMAGE/training
+
+
+
+
+
 Rather than classifiying lineraly the resources, I try to keep track of tag
 - #python: with example in python
 - #imageJ: with example in ImageJ
